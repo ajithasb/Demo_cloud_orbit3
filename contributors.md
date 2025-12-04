@@ -1,5 +1,5 @@
-# contributors 
--priya
+# contributing
+-Anusha
 -Ajitha
 
 
