@@ -1,3 +1,3 @@
 # contributors list
-1.Ajitha
+1.ajitha
 2.vihaan
